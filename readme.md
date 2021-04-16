@@ -1,10 +1,13 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradeep Jangid</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+<!-- <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://linkedin.com/in/pradeepjangid15">Pradeep Jangid</a>👨‍💻</h1>
+<!-- # Pradeep Jangid 👨‍💻 -->
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+[![Twitter Badge](https://img.shields.io/badge/-prdpjngd-1769FF?style=flat&logo=twitter&logoColor=white)](https://www.twitter.net/prdpjngd)
+[![Linkedin Badge](https://img.shields.io/badge/-pradeepjangid15-0077B5?style=flat&logo=Linkedin)](https://linkedin.com/in/pradeepjangid15)
+[![Website Badge](https://img.shields.io/badge/-insidethehack-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://www.insidethehack.com)
+[![email Badge](https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pradeepjangid@pm.me)
+![](https://visitor-badge.glitch.me/badge?page_id=dheerajkotwani.dheerajkotwani)  
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -30,6 +33,61 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+
+## Hi there 👋,           
+#### I'm Pradeep Jangid, CS Graduate.  I am tech enthusiast, I worked on mostly backend part of the projects in Python, Java, .Ts, ,Js.I like to explore new technologies and develop software solutions and quick hacks. Currently focusing on Cloud Architecture & Software Development Modals.  
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+
+## 🧐 About
+- 🏄‍I am Software Developer looking for Full Stack Opportunity .
+- 😄 I usually like to make open source contributions.
+- 🤔 I’m looking to help with React & .
+- 🌱 I love to learn new things and ready to help others.
+- 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
+- 👯 And Many More...
+
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+
+- 💬 Ask me about anything and everything! 
+- 📫 How to reach me: mail me at [reply2jangid@gmail.com](mailto:reply2jangid@gmail.com)
+- ⚡ Fun fact: I usually like coding at nights! 
+
+<a href="https://prdpjngd.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=prdpjngd&count_private=true" align="center"/>
+</a>
+<a href="https://prdpjngd.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prdpjngd&layout=compact" align="center"/>
+</a>
+<br>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
+</p>
+
+
+
+<!--
+**dheerajkotwani/dheerajkotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradeep Jangid</h2>
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -39,14 +97,3 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.insidethehack.com"><img src="https://img.shields.io/badge/-prdpjngd-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pradeepjangid15"><img src="https://img.shields.io/badge/-prdpjngd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pradeepjangid@pm.me"><img src="https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/prdpjngd"><img src="https://img.shields.io/badge/-prdpjngd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/pradeepjangid1999"><img src="https://img.shields.io/badge/-prdpjngd-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/prdpjngd"><img src="https://img.shields.io/badge/-prdpjngd-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.twitter.net/prdpjngd"><img src="https://img.shields.io/badge/-prdpjngd8-1769FF?style=flat&logo=twitter&logoColor=white"/></a>
-</p>
