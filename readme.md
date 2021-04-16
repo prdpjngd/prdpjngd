@@ -7,7 +7,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pradeepjangid15-0077B5?style=flat&logo=Linkedin)](https://linkedin.com/in/pradeepjangid15)
 [![Website Badge](https://img.shields.io/badge/-insidethehack-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://www.insidethehack.com)
 [![email Badge](https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pradeepjangid@pm.me)
-![](https://visitor-badge.glitch.me/badge?page_id=dheerajkotwani.dheerajkotwani)  
+![](https://visitor-badge.glitch.me/badge?page_id=prdpjngd)  
+
+
+## Hi there 👋,           
+#### I'm Pradeep Jangid, CS Graduate.  I am tech enthusiast, I worked on mostly backend part of the projects in Python, Java, .Ts, ,Js.I like to explore new technologies and develop software solutions and quick hacks. Currently focusing on Cloud Architecture & Software Development Modals.  
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+
+## 🧐 About
+- 🏄‍I am Software Developer looking for Full Stack Opportunity .
+- 😄 I usually like to make open source contributions.
+- 🤔 I’m looking to help with React & .
+- 🌱 I love to learn new things and ready to help others.
+- 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
+- 👯 And Many More...
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -32,20 +47,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-
-## Hi there 👋,           
-#### I'm Pradeep Jangid, CS Graduate.  I am tech enthusiast, I worked on mostly backend part of the projects in Python, Java, .Ts, ,Js.I like to explore new technologies and develop software solutions and quick hacks. Currently focusing on Cloud Architecture & Software Development Modals.  
-
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-
-## 🧐 About
-- 🏄‍I am Software Developer looking for Full Stack Opportunity .
-- 😄 I usually like to make open source contributions.
-- 🤔 I’m looking to help with React & .
-- 🌱 I love to learn new things and ready to help others.
-- 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
-- 👯 And Many More...
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
