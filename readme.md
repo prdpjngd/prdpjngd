@@ -18,7 +18,7 @@
 ## 🧐 About
 - 🏄‍I am Software Developer looking for Full Stack Opportunity .
 - 😄 I usually like to make open source contributions.
-- 🤔 I’m looking to help with React & .
+- 🤔 I’m looking to help with NodeJS & Python based Projects.
 - 🌱 I love to learn new things and ready to help others.
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
 - 👯 And Many More...
