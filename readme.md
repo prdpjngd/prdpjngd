@@ -1,5 +1,3 @@
-
-<!-- <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://linkedin.com/in/pradeepjangid15">Pradeep Jangid</a>👨‍💻</h1>
 <!-- # Pradeep Jangid 👨‍💻 -->
 
