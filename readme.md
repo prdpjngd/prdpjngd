@@ -1,6 +1,3 @@
-<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://linkedin.com/in/pradeepjangid15">Pradeep Jangid</a>👨‍💻</h1>
-<!-- # Pradeep Jangid 👨‍💻 -->
-
 [![Twitter Badge](https://img.shields.io/badge/-prdpjngd-1769FF?style=flat&logo=twitter&logoColor=white)](https://www.twitter.net/prdpjngd)
 [![Linkedin Badge](https://img.shields.io/badge/-pradeepjangid15-0077B5?style=flat&logo=Linkedin)](https://linkedin.com/in/pradeepjangid15)
 [![Website Badge](https://img.shields.io/badge/-insidethehack-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://www.insidethehack.com)
