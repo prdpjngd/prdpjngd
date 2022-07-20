@@ -4,14 +4,6 @@
 [![email Badge](https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pradeepjangid@pm.me)
 ![](https://visitor-badge.glitch.me/badge?page_id=prdpjngd)  
 
-
-## Hi there 👋,           
-#### I'm Pradeep Jangid, CS Graduate.  I am tech enthusiast, I worked on mostly backend part of the projects in Python, Java,.Ts,.Js. I like to explore new technologies and develop software solutions and quick hacks. Currently focusing on Cloud Architecture & Software Development Modals.  
-
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: mail me at [reply2jangid@gmail.com](mailto:reply2jangid@gmail.com)
-- ⚡ Fun fact: I usually like coding at nights! 
-
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
@@ -28,7 +20,3 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" alt="Node-Js" width="40" height="40"/> 
 </p>
-
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradeep Jangid</h2>
-
