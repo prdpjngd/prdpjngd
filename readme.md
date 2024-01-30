@@ -1,26 +1,11 @@
-# Hi there! 👋 I'm Pradeep Jangid
+###  Hi there! 👋 I'm Pradeep Jangid
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, always exploring new technologies and building exciting projects. With over 5 years of experience in Node.js and Python, I bring a wealth of knowledge to the table. Feel free to explore my repositories and connect with me through various platforms.
-
-## 🚀 Connect with Me
 
 [![Twitter Badge](https://img.shields.io/badge/-prdpjngd-1769FF?style=flat&logo=twitter&logoColor=white)](https://www.twitter.net/prdpjngd)
 [![Linkedin Badge](https://img.shields.io/badge/-pradeepjangid15-0077B5?style=flat&logo=Linkedin)](https://linkedin.com/in/pradeepjangid15)
 [![Website Badge](https://img.shields.io/badge/-insidethehack-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://www.insidethehack.com)
 [![Email Badge](https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pradeepjangid@pm.me)
-
-
-## 💻 Core Skills
-
-- **Node.js:** Over 5 years of hands-on experience, building scalable and efficient server-side applications.
-  
-- **RabbitMQ:** Proficient in implementing robust message queuing systems for distributed applications.
-  
-- **Azure:** Extensive knowledge in utilizing Microsoft Azure services for cloud-based solutions.
-
-- **Elasticsearch:** Adept at leveraging Elasticsearch for efficient and powerful search capabilities.
-
-## 💻 Technologies & Tools
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
@@ -36,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, al
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/> 
 </p>
 
