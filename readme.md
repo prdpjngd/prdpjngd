@@ -10,6 +10,16 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, al
 [![Email Badge](https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pradeepjangid@pm.me)
 
 
+## 💻 Core Skills
+
+- **Node.js:** Over 5 years of hands-on experience, building scalable and efficient server-side applications.
+  
+- **RabbitMQ:** Proficient in implementing robust message queuing systems for distributed applications.
+  
+- **Azure:** Extensive knowledge in utilizing Microsoft Azure services for cloud-based solutions.
+
+- **Elasticsearch:** Adept at leveraging Elasticsearch for efficient and powerful search capabilities.
+
 ## 💻 Technologies & Tools
 
 <p align="center">
