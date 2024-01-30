@@ -1,7 +1,3 @@
-###  Hi there! 👋 I'm Pradeep Jangid
-
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, always exploring new technologies and building exciting projects. With over 5 years of experience in Node.js and Python, I bring a wealth of knowledge to the table. Feel free to explore my repositories and connect with me through various platforms.
-
 [![Twitter Badge](https://img.shields.io/badge/-prdpjngd-1769FF?style=flat&logo=twitter&logoColor=white)](https://www.twitter.net/prdpjngd)
 [![Linkedin Badge](https://img.shields.io/badge/-pradeepjangid15-0077B5?style=flat&logo=Linkedin)](https://linkedin.com/in/pradeepjangid15)
 [![Website Badge](https://img.shields.io/badge/-insidethehack-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://www.insidethehack.com)
